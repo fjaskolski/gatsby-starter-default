@@ -5,8 +5,9 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "next",
-    "gatsby-link": "next",
-    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-react-helmet": "next",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
